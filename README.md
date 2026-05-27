@@ -1,16 +1,14 @@
 # Gennis2026
-Data
+Fig. 1: Table S1
 
-Fig. 1 
+Fig. 2 Fig2-1.txt
 
-Fig. 2
+Fig. 3 Fig3-1.txt
 
-Fig. 3
+Fig. 4 Fig4-1.txt
 
-Fig. 4
+Fig. S2 FigS3-1.txt
 
-Fig. S2
+Fig. S4 FigS4-1.txt
 
-Fig. S4
-
-Fig. S5
+Fig. S5 FigS5-1.txt
