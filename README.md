@@ -1,5 +1,5 @@
 # Gennis2026
-Fig. 1: Table S1
+Fig. 1: Fig1-1.txt, see also Table S1
 
 Fig. 2 Fig2-1.txt
 
