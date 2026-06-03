@@ -1,0 +1,114 @@
+Prickle	Aspect Ratio b/a
+Lawinia	2.147
+Lawinia	2.846
+Lawinia	2.569
+Lawinia	1.833
+Lawinia	2.357
+Lawinia	2.240
+Lawinia	2.660
+Autumn Damask	1.698
+Autumn Damask	1.422
+Autumn Damask	1.624
+Autumn Damask	1.422
+Autumn Damask	1.710
+Autumn Damask	1.913
+Pompon blanc parfait	2.936
+Pompon blanc parfait	1.984
+Pompon blanc parfait	2.470
+Pompon blanc parfait	2.064
+Pompon blanc parfait	2.171
+Pompon blanc parfait	2.583
+Morten Koch	2.381
+Morten Koch	2.436
+Morten Koch	2.116
+Morten Koch	1.442
+Morten Koch	3.067
+Morten Koch	2.433
+Henri Martin	2.505
+Henri Martin	3.271
+Henri Martin	3.136
+Henri Martin	2.327
+Henri Martin	2.031
+Henri Martin	3.127
+Royal Copenhagen	1.677
+Royal Copenhagen	3.664
+Royal Copenhagen	3.827
+Royal Copenhagen	2.337
+Royal Copenhagen	3.111
+Royal Copenhagen	2.186
+Romanze	2.438
+Romanze	2.330
+Romanze	3.979
+Romanze	2.108
+Romanze	2.007
+Romanze	2.393
+Dame de Coeur	3.244
+Dame de Coeur	3.748
+Dame de Coeur	3.049
+Dame de Coeur	3.705
+Dame de Coeur	3.351
+Dame de Coeur	2.567
+Astrid Lindgren	2.444
+Astrid Lindgren	2.066
+Astrid Lindgren	2.214
+Astrid Lindgren	1.811
+Astrid Lindgren	2.487
+Astrid Lindgren	3.012
+Aichaklitrose	3.846
+Aichaklitrose	3.736
+Aichaklitrose	3.504
+Aichaklitrose	3.256
+Aichaklitrose	2.091
+Aichaklitrose	2.054
+Amelia	3.563
+Amelia	4.058
+Amelia	2.767
+Amelia	2.800
+Amelia	3.463
+Amelia	4.560
+Look Good Feel Better	2.940
+Look Good Feel Better	2.967
+Look Good Feel Better	3.442
+Look Good Feel Better	3.048
+Look Good Feel Better	3.297
+Look Good Feel Better	2.652
+Victor Borge	3.222
+Victor Borge	3.489
+Victor Borge	2.076
+Victor Borge	4.200
+Victor Borge	2.612
+Victor Borge	2.261
+Goldmarie 82	2.376
+Goldmarie 82	2.210
+Goldmarie 82	2.101
+Goldmarie 82	2.359
+Goldmarie 82	1.806
+Goldmarie 82	2.483
+Chales de Mills	2.508
+Chales de Mills	1.833
+Chales de Mills	2.638
+Chales de Mills	2.010
+Prosperity	2.857
+Prosperity	3.611
+Prosperity	3.307
+Prosperity	2.581
+Prosperity	2.278
+Prosperity	2.686
+Molineux	3.017
+Molineux	3.626
+Molineux	3.143
+Molineux	1.646
+Molineux	2.857
+Molineux	2.947
+Great Western	3.104
+Great Western	2.318
+Great Western	3.261
+Great Western	3.359
+Great Western	2.847
+Great Western	3.063
+Zonta Rosen	3.517
+Zonta Rosen	3.029
+Zonta Rosen	2.961
+Zonta Rosen	1.735
+Zonta Rosen	1.923
+Zonta Rosen	2.764

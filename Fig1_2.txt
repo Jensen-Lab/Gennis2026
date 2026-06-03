@@ -1,0 +1,20 @@
+Prickle	Mean Aspect Ratio b/a	Standard Deviation of Mean Aspect Ratio
+Aichaklitrose	3.081	0.330
+Amelia	3.535	0.286
+Astrid Lindgren	2.339	0.169
+Autumn Damask	1.632	0.077
+Chales de Mills	2.247	0.193
+Dame de Coeur	3.277	0.180
+Goldmarie 82	2.223	0.100
+Great Western	2.992	0.153
+Henri Martin	2.733	0.209
+Lawinia	2.379	0.130
+Look Good Feel Better	3.058	0.114
+Molineux	2.873	0.269
+Morten Koch	2.313	0.216
+Pompon blanc parfait	2.368	0.148
+Prosperity	2.887	0.201
+Romanze	2.542	0.295
+Royal Copenhagen	2.800	0.354
+Victor Borge	2.977	0.331
+Zonta Rosen	2.655	0.281
